@@ -1,0 +1,10 @@
+opp,me,outcome
+rock,rock,draw
+rock,paper,win
+rock,scissors,loss
+paper,rock,loss
+paper,paper,draw
+paper,scissors,win
+scissors,rock,win
+scissors,paper,loss
+scissors,scissors,draw
